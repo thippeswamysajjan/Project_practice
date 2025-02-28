@@ -3,9 +3,6 @@ import UdemyHomePage from '../../Pages/Udemy.home.page';
 
 //Author-Thippeswamy
 
-
-
-
 // Verify the menu tabs.
 // Sample Test Url->https://www.icc-cricket.com/
 
