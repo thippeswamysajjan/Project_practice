@@ -5,7 +5,7 @@ import UdemyHomePage from '../../Pages/Udemy.home.page';
 //Author-Thippeswamy
 
 
-//Verify the menu tabs links
+//Verify the menu tabs links.
 // Sample Test Url->https://www.icc-cricket.com/
 
 test.describe('Verify menu tabs links', () => {

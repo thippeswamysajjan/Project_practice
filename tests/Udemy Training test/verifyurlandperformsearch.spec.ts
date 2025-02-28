@@ -6,7 +6,7 @@ import UdemyHomePage from '../../Pages/Udemy.home.page';
 
 
 
-// Validate login and verify the url 
+// Validate login and verify the url. 
 // Sample Test Url->https://www.icc-cricket.com/
 
 let homepage: UdemyHomePage;

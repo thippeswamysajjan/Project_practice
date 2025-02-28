@@ -6,7 +6,7 @@ import UdemyHomePage from '../../Pages/Udemy.home.page';
 
 
 
-// Verify the menu tabs
+// Verify the menu tabs.
 // Sample Test Url->https://www.icc-cricket.com/
 
 test.describe('Verify menu tabs', () => {
