@@ -30,3 +30,18 @@ export class calculateTitleFees {
     
 
     }
+
+    export class liabilityAmount {
+       
+        static calculateLiabilityAmount(amounts: number[]): number {
+            if (!Array.isArray(amounts) || amounts.length === 0) {
+                throw new Error("Invalid input");
+            }
+    
+            const total = amounts.reduce((sum, amount) => sum + amount, 0);
+            console.log(`Total Calculated Amount: ${total}`);
+            return total;
+        }
+    
+
+    }
