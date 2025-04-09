@@ -6,7 +6,7 @@ import MagnetoHomePage from '../Pages/Magneto.home.page';
 
 
 
-// Add the product to the part and make order for that product
+// Add the product to the part and make shipment for that product
 // Sample Test Url->https://magento.softwaretestingboard.com/
 
 test.describe('order for product and make payment', () => {
